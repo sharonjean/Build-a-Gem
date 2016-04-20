@@ -54,7 +54,7 @@ end
 ```
 5. Now you install and test your gem locally!
 ``` ruby
-% byefelicia    gem install ./placeholder-0.0.0
+% byefelicia    gem install ./placeholder-0.0.0.gem
 
 => Successfully installed placeholder-0.0.0
 Parsing documentation for placeholder-0.0.0
