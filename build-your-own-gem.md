@@ -8,10 +8,13 @@ Rubygems provides two things for the Ruby community.
 
 ##Naming your gem
 ```
-Naming your gem is important. Before you pick a name for your gem, do a quick search on RubyGems.org and GitHub to see if someone else has taken it. Every published gem must have a unique name. Be sure to read our naming recommendations when you’ve found a name you like.
-
-[Rubygems naming conventions](http://guides.rubygems.org/patterns/#consistent-naming)
+Naming your gem is important. 
+Before you pick a name for your gem, do a quick search on RubyGems.org and GitHub to see if someone else has taken it. 
+Every published gem must have a unique name. 
+Be sure to read our naming recommendations when you’ve found a name you like.
 ```
+[Rubygems naming conventions](http://guides.rubygems.org/patterns/#consistent-naming)
+
 
 ##Build your gem
 
