@@ -72,7 +72,7 @@ irb >>  Placeholder.bye
 ```
 7. Share your gem! Setup and push your gem out to the community!
 ``` ruby
-irb >> curl -u qrush https://rubygems.org/api/v1/api_key.yaml > ~/.gem/credentials; chmod 0600 ~/.gem/credentials
+irb >> curl -u sharonjean https://rubygems.org/api/v1/api_key.yaml > ~/.gem/credentials; chmod 0600 ~/.gem/credentials
 
 # it will ask you for your credentials
 => Enter host password for user 'byefelicia':
